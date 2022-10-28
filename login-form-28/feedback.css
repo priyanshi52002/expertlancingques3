@@ -1,0 +1,18 @@
+.form{
+    margin: 50px 150px 50px 150px;
+    padding: 50px 50px 50px 50px;
+    position:relative;
+    background-image: linear-gradient(to right, #fff 0%, #fff  51%, #fff  100%);
+    border-radius: 30px;
+}
+.feed{
+    margin: 10px 150px 0px 150px;
+    padding: 10px 50px 0px 50px;
+    position:relative;
+}
+#bttn{
+    background-image: linear-gradient(to right, #6cb6e8 0%, #63318b  51%, #5827b4  100%);
+}
+body{
+    background-image: linear-gradient(to right, #6cb6e8 0%, #5d04a6  51%, #7639e6  100%);
+}
