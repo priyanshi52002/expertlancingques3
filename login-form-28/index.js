@@ -9,3 +9,7 @@ signUpBtn.addEventListener('click', () => {
 signInBtn.addEventListener('click', () => {
     container.classList.remove('right-panel-active');
 });
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+ }
